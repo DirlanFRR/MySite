@@ -1,11 +1,11 @@
+from pdb import main
 from django.contrib import admin
-
-# Register your models here.
- Post
 from .models import Post
+# Register your models here.
+Post
+
 
 admin.site.register(Post)
-=======
-from blog.models.post import BlogPost
+from .models import Post
 
- main
+main
