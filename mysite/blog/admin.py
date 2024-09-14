@@ -1,11 +1,5 @@
 from django.contrib import admin
+from .models import Post  # Certifique-se de que este caminho está correto
 
 # Register your models here.
- Post
-from .models import Post
-
 admin.site.register(Post)
-=======
-from blog.models.post import BlogPost
-
- main

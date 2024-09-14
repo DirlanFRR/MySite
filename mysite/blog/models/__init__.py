@@ -1,1 +1,2 @@
-from blog.models.post import BlogPost
+from blog.models.post import Post
+
