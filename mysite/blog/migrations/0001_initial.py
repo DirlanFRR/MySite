@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-import django.db.models.deletion
-=======
->>>>>>> 4a257e6304f2b876ecb02215a1d5ed8e11a2179c
 from django.conf import settings
 from django.db import migrations, models
 import django.db.models.deletion
